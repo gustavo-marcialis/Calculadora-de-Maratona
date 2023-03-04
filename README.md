@@ -5,7 +5,7 @@ Este projeto é uma calculadora simples que permite calcular o tempo total que v
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-[Programa Funcionando](imagem.png)
+[Programa Funcionando](http://calculadora-de-maratona.gustavomarcialis.epizy.com/?i=1)
 
 # 💻 Tutorial de Uso:
 Para executar o projeto, você pode baixar os arquivos do repositório Git e abri-los em seu editor de código favorito. O projeto inclui os seguintes arquivos:

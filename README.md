@@ -1,4 +1,4 @@
-# Sistema de Pedidos
+# Calculadora de Maratona
   
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   
@@ -33,9 +33,9 @@
 - Lógica de Programação
 
 
- ## 📫 Contribuindo para o Sistema de Pedidos 
+ ## 📫 Contribuindo para a Calculadora de Maratona
 
- Para contribuir com o Sistema de Pedidos, siga estas etapas: 
+ Para contribuir com a Calculadora de Maratona, siga estas etapas: 
   
  1. Bifurque este repositório. 
  2. Crie um branch: `git checkout -b <nome_branch>`. 

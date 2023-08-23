@@ -1,36 +1,41 @@
-# Calculadora de Maratona
+# Sistema de Pedidos
   
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   
   
- > Este projeto é uma calculadora simples que permite calcular o tempo total que você leva para assistir a uma série. O projeto foi desenvolvido usando HTML, CSS e JavaScript. Foram utilizados conceitos de semântico HTML, responsividade, CSS flex-box, Media Query para versão Mobile e JavaScript DOM. 
+  ## Problema Resolvido
+  
+> Gerenciamento de tempo para entretenimento.
   
   
- ## 🚀 Instalando a Calculadora de Maratona 
+  ## Resolução
   
- Para instalar a Calculadora de Maratona, siga estas etapas: 
-  
-  Para executar o projeto, você pode baixar os arquivos do repositório Git e abri-los em seu editor de código favorito. O projeto inclui os seguintes arquivos:
-  
-  - index.html: Este arquivo contém a estrutura HTML do projeto, incluindo os elementos de formulário e as tags de script para vincular o arquivo JavaScript.
-  - style.css: Este arquivo contém uma folha de estilo CSS para o projeto. Ele inclui estilos para o layout do projeto, incluindo cores, fontes, tamanhos de texto e outros elementos de design.
-  - script.js: Este arquivo contém o código JavaScript que executa o calculador do tempo de série.
+> Um programa para calcular o tempo total estimado para assistir uma série completa, baseado na duração de um episódio e no número total de episódios da série.
   
   
- ## ☕ Usando a Calculadora de Maratona
+  ## Benefícios
   
- Para usar a Calculadora de Maratona, [Clique Aqui](http://calculadora-de-maratona.gustavomarcialis.epizy.com/?i=1) ou siga estas etapas: 
+- Maior controle de tempo para entretenimento.
   
- - Após baixar a pasta do projeto em seu computador, abra o arquivo index.html em seu navegador;
- - Insira o número de episódios da série;
- - Insira a duração de cada episódio em minutos;
- - Clique no botão "Calcular" para ver o tempo total que você levará para assistir a série;
- - O tempo será exibido em horas ou dias, dependendo do tempo total.
- 
   
- ## 📫 Contribuindo para a Calculadora de Maratona 
+  ## Tecnologias Utilizadas
+  
+  - HTML 5
+  - CSS 3
+  - JavaScript
 
- Para contribuir com Calculadora de Maratona, siga estas etapas: 
+
+## Habilidades Exercitadas
+
+- Tags Semãnticas do HTML
+- CSS Flex-box
+- JavaScript DOM
+- Lógica de Programação
+
+
+ ## 📫 Contribuindo para o Sistema de Pedidos 
+
+ Para contribuir com o Sistema de Pedidos, siga estas etapas: 
   
  1. Bifurque este repositório. 
  2. Crie um branch: `git checkout -b <nome_branch>`. 
